@@ -1,2 +1,2 @@
 # Impact-Training
-This Includes all the codes and practices I did during my Impact Training.
+This Includes everything I learn during my Impact Training.
